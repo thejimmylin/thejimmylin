@@ -1,4 +1,4 @@
-# Hello, I'm Jimmy Lin.
+# I'm Jimmy Lin.
 
 Welcome to my Github. I'm Jimmy Lin. I love programming and all the web development things. I am also working as a backend engineer in [Shopee Taiwan](https://shopee.tw/) now. Here is my Github status:
 
