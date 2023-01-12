@@ -2,11 +2,11 @@
 
 Welcome to my Github. I'm Jimmy Lin. I love programming and all the web development things. I am also working as a backend engineer in [Shopee Taiwan](https://shopee.tw/) now. Here is my Github status:
 
-![Github status](https://github-readme-stats.vercel.app/api?username=thejimmylin&count_private=true&show_icons=true&hide_title=true&icon_color=505050)
+![Github status](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thejimmylin&count_private=true&show_icons=true&hide_title=true&icon_color=505050)
 
 I usually use Python & JavaScript as my programming languages.
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=thejimmylin&layout=compact&title_color=404040)
+![Top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=thejimmylin&layout=compact&title_color=404040)
 
 # Reach me
 
