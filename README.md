@@ -1,6 +1,10 @@
 # I'm Jimmy Lin.
 
-Welcome to my Github. I'm Jimmy Lin. I love programming and all the web development things. I am also working as a backend engineer in [Shopee Taiwan](https://shopee.tw/) now. Here is my Github status:
+Welcome to my Github. I'm Jimmy Lin. I love programming.
+
+I work as a fullstack engineer at [Proto](https://www.proto.cx/) now.
+
+Here is my Github status:
 
 ![Github status](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thejimmylin&count_private=true&show_icons=true&hide_title=true&icon_color=505050)
 
