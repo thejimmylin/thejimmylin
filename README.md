@@ -4,13 +4,7 @@ Welcome to my Github. I'm Jimmy Lin. I love programming.
 
 I work as a fullstack engineer at [Proto](https://www.proto.cx/) now.
 
-Here is my Github status:
-
-![Github status](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thejimmylin&count_private=true&show_icons=true&hide_title=true&icon_color=505050)
-
 I usually use Python & JavaScript as my programming languages.
-
-![Top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=thejimmylin&layout=compact&title_color=404040)
 
 # Reach me
 
