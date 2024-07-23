@@ -1,10 +1,8 @@
 # I'm Jimmy Lin.
 
-Welcome to my Github. I'm Jimmy Lin. I love programming.
+Welcome to my Github. I'm Jimmy Lin. I love to solve problems and create value.
 
 I work as a full-stack engineer now.
-
-I love to solve problems and create value.
 
 # Reach me
 
